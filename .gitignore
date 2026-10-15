@@ -1,0 +1,6 @@
+.env
+.env.*
+*key*.json
+*.json.key
+.clasprc.json
+.dev.vars*
